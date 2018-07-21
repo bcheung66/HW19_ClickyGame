@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "GPS12",
+    "image":
+     "https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/gps/DSCN0012.jpg"
+  },
+  {
+    "id": 2,
+    "name": "GPS",
+    "image": "https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/gps/DSCN0021.jpg"
+  },
+  {
+    "id": 3,
+    "name": "GPS29",
+    "image": "https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/gps/DSCN0029.jpg"
+  },
+  {
+    "id": 4,
+    "name": "GPS40",
+    "image": "https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/gps/DSCN0040.jpg"
+  },
+  {
+    "id": 5,
+    "name": "GPS42",
+    "image": "https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/gps/DSCN0042.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fire Road",
+    "image": "https://raw.githubusercontent.com/Wikia/vignette/master/image-samples/fire-road.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Boat",
+    "image": "https://raw.githubusercontent.com/Wikia/vignette/master/image-samples/boat.jpg"
+  },
+  {
+    "id": 8,
+    "name": "GPS38",
+    "image": "https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/gps/DSCN0038.jpg"
+  },
+  {
+    "id": 9,
+    "name": "House",
+    "image": "https://raw.githubusercontent.com/Wikia/vignette/master/image-samples/house.jpg"
+  },
+  {
+    "id": 10,
+    "name": "GPS27",
+    "image": "https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/gps/DSCN0027.jpg"
+  },
+  {
+    "id": 11,
+    "name": "GPS25",
+    "image": "https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/gps/DSCN0025.jpg"
+  },
+  {
+    "id": 12,
+    "name": "GPS10",
+    "image": "https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/gps/DSCN0010.jpg"
+  }
+]
